@@ -11,4 +11,9 @@
   * Item 2b
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](http://s2.glbimg.com/mOlvtGqUwEBvpyrKs9knoxNTTLc=/top/s.glbimg.com/jo/eg/f/original/2014/10/15/adrina.jpg)
+Format: ![Alt Text](url)
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
