@@ -1,24 +1,22 @@
 # Projeto Integrado 
 ## Santander coders java - Digital House
 
+## **Comunidade Orgânica**
 
-*testando italic*
-**testando bold**
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
-![GitHub Logo](/resources_readme/1f680.png)
-Format: ![Alt Text](url)
+## Development server
+
+Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http: // localhost: 4200 /`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+
 <br>
 
-
 <p>
- Tecnologias Usadas
- <img src="/resources_readme/1f680.png" width="50" height="50" />
+<img src="/resources_readme/1f680.png" width="50" height="50" />
+Tecnologias usadas
 </p>
+
 
 
 Back end | Front end 
@@ -32,3 +30,11 @@ Swagger |
 OAthu2 |
 Spring security jwt |
 Spring boot starter mail |
+
+**Link dá aplicação na nuvem**
+https://comunidadeorganica.herokuapp.com
+<br>
+
+###### gif de algumn prits de telas do sistema.
+
+![](resources_readme/CO_gif.gif)
