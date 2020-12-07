@@ -12,6 +12,7 @@
 
 ![GitHub Logo](/resources_readme/1f680.png)
 Format: ![Alt Text](url)
+<br>
 <img src="/resources_readme/1f680.png" width="50" height="50" />
 
 First Header | Second Header
