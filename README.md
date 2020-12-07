@@ -10,8 +10,9 @@
   * Item 2a
   * Item 2b
 
-![GitHub Logo](/resources_readme/1f680.png | width =50)
+![GitHub Logo](/resources_readme/1f680.png)
 Format: ![Alt Text](url)
+<img src="/resources_readme/1f680.png" width="50" height="50" />
 
 First Header | Second Header
 ------------ | -------------
