@@ -35,6 +35,6 @@ Spring boot starter mail |
 https://comunidadeorganica.herokuapp.com
 <br>
 
-###### gif de algumn prits de telas do sistema.
+###### gif de alguns prits de telas do sistema.
 
 ![](resources_readme/CO_gif.gif)
