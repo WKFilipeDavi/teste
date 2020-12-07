@@ -14,8 +14,11 @@
 Format: ![Alt Text](url)
 <br>
 
-<img src="/resources_readme/1f680.png" width="50" height="50" />
-#### Tecnologias usadas 
+
+<p>
+ Tecnologias Usadas
+ <img src="/resources_readme/1f680.png" width="50" height="50" />
+</p>
 
 
 Back end | Front end 
