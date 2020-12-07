@@ -15,7 +15,14 @@ Format: ![Alt Text](url)
 <br>
 <img src="/resources_readme/1f680.png" width="50" height="50" />
 
-First Header | Second Header
+Front end | Back end
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Angular CLI version 10.0.5. | Spring boot
+Bootsrap 4 | Banco de dados MySql
+PrimeNG |Lombok
+ | Hibernate
+ | Aws service
+ | Swagger
+ | OAthu2
+ | Spring security jwt
+ | Spring boot starter mail
