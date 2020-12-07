@@ -10,7 +10,7 @@
   * Item 2a
   * Item 2b
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/resources_readme/1f680.png)
 Format: ![Alt Text](url)
 
 First Header | Second Header
